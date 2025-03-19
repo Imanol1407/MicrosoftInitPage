@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Proyecto Clon de Microsoft</title>
+    
+</head>
+<body>
+    <header>
+        <div class ="logo">
+            <img src="https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png " alt="Microsoft"
+        </div>
+        <nav>
+            <ul>
+                <li><a href="https://www.microsoft.com/es-ww/microsoft-365">Microsoft 365</a></li>
+                <li><a href="https://www.microsoft.com/microsoft-365/microsoft-office">Office</a></li>
+                <li><a href="https://copilot.microsoft.com/">Copilot</a></li>
+                <li><a href="https://www.microsoft.com/es-mx/windows/">Windows</a></li>
+                <li><a href="https://www.xbox.com/">Xbox</a></li>
+                <li><a href="https://support.microsoft.com/es-do">Soporte</a></li>
+            </ul>
+        </nav>
+    </header>
+
+
+<main>
+    <section class="hero">
+        <div class="hero-contemt">
+            <h1>Logra resultados excepcioonales</h1>
+            <p>Microsoft 365 entegra almacenamiento en la nube, seguridad y microsft Copilot en tus aplicaciones favritas, todo en un solo plan</p>
+            <button>Compra Microsft 365</button>
+        </div>
+    </section>
+
+    <section class="Product-cards">
+        <div class="card">
+            <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-CP-Windows11-GlobalLaunch?wid=380&hei=213&fit=crop" alt="Windows">
+            <div class="card-content">
+                <h2>Disenado para la vida de hoy de de manana</h2>
+                <p>La nueva generacion de juegos. Tus objetivos. Familia y amigos . windows 11 esta hecho para acercarte a lo que te importa.</p>
+                <a href="https://www.microsoft.com/es-xl/windows/windows-11?icid=mscom_marcom_CPH1a_Win11PChlth#pchealthcheck">Ver si tu pc esta listo</a>   
+            </div>
+        </div>
+         
+        <div class="card">
+            <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-MSFT-CP-Edge?wid=406&hei=230&fit=crop" alt="Microsft Edge">
+            <div  class="card-content">
+                <h2>Microsft Edge</h2>
+                <p>Un rendimiento de categoria mundial com mas privacidad, mas productividad y mas valor.</p>
+                <a href="https://www.microsoft.com/es-es/edge?form=MI13F3&OCID=MI13F3">Descargar Ahora</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-Soft-CP-OneDriveCampaignRefresh-2?wid=406&hei=230&fit=crop" alt="onedrive">
+            <div class="card-content">
+                <h2>Microsft OneDrive</h2> 
+                <p>Guarda tus archivos y fotos en OneDrive y accede a ellos desde cualquier dispositivo y en cualquier lugar.</p>
+                <a href="https://www.microsoft.com/es/microsoft-365/onedrive/online-cloud-storage?icid=mscom_marcom_CPH3a_OneDrive">Mas informacion</a>
+
+            </div> 
+
+        <div class="card">
+            <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-CP-MSCOM-Outlook-iOS-Android?wid=406&hei=230&fit=crop" alt="Outlook">
+            <div class="card-content">
+                <h2>Outlook para iOS y Android</h2>
+                <p>Conecta. Organiza. Haz las cosas.</p>
+                <a href="https://www.microsoft.com/es/microsoft-365/outlook-mobile-for-android-and-ios?icid=mscom_marcom_CPH4a_OutlookApp">Descargar ahora</a>
+            </div>
+        </div>
+    </section>
+   
+    </main>
+    <footer>
+        <p>&copy; Microsft 2025</p>
+    </footer>
+</body>
+</html>
